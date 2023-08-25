@@ -1,4 +1,6 @@
-#exercicíos operadores
+#exercicio com if e comparação
+primeiro_valor = input('Digite um valor: ')
+segundo_valor = input('Digite outro valor: ')
 
 if primeiro_valor >= segundo_valor:
     print(
